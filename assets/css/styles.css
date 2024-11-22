@@ -121,6 +121,10 @@ body.light-theme {
 
 /* start navbar    */
 
+
+.navbar{
+  background:rgba(60, 60, 60, 0.4);
+}
 .navbar li {
       position: relative;
       

@@ -31,7 +31,7 @@ const translations = {
 
 
         //   students PRODUCTS PAGE
-        students: "students products",
+        student: "students products",
         Model: "Model: OBINOOR 1001",
         Specifications: "Specifications:",
         MaterialHigh: "MaterialHigh-quality 1000D nylon or polyester.",
@@ -153,7 +153,7 @@ const translations = {
 
           
         //   students PRODUCTS PAGE
-        students: "المنتجات الطلاب",
+        student: "المنتجات الطلاب",
         Specifications: "المواصفات:",
         Model: "الطراز: OBINOOR 1001",
         MaterialHigh: "المادة: نايلون أو بوليستر عالي الجودة 1000D.",
